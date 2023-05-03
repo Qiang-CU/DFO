@@ -10,6 +10,7 @@ This implementation is based on mpi4py in python.
   <div align="center">
   <img src="./fig/eq.png" width = 40%/>
   </div>
+  
   - where $\Pi_{\boldsymbol{\theta}}=\mathcal{N}\left(\mu_0-\kappa \boldsymbol{\theta}, \sigma^2 I\right)$ is the unique stationary distribution of the following Markov process. 
   $$ 
   z_{t+1}=(1-\gamma) z_t+\gamma \mathcal{N}\left(\mu_0-\kappa \boldsymbol{\theta}, \frac{2-\gamma}{\gamma} \sigma^2 I\right)
