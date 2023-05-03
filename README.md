@@ -8,8 +8,7 @@ This implementation is based on mpi4py in python.
  - We consider an example of multi-dimensional pricing problem with $d=5$. Let $\boldsymbol{\theta} \in \mathbb{R}^5$ denote the prices of 5 goods and $\kappa$ be the drifting parameter. 
  - Our goal is to maximize the average revenue 
  $$
- \mathbb{E}_{Z \sim \Pi_{\boldsymbol{\theta}}}[\ell(\boldsymbol{\theta} ; Z)] 
- \text{  ~with~  }
+ \max_{\theta \in \mathbb{R}^d}\mathbb{E}_{Z \sim \Pi_{\boldsymbol{\theta}}}[\ell(\boldsymbol{\theta} ; Z)] , \quad 
  \ell(\boldsymbol{\theta} ; z)=-\langle\boldsymbol{\theta} \mid z\rangle
  $$
   - where $\Pi_{\boldsymbol{\theta}}=\mathcal{N}\left(\mu_0-\kappa \boldsymbol{\theta}, \sigma^2 I\right)$ is the unique stationary distribution of the following Markov process. 
