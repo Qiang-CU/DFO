@@ -1,0 +1,28 @@
+
+Dpython:S1172&"-Remove the unused function parameter "theta".(¡ô›J
+dpython:S117L"MRename this parameter "N" to match the regular expression ^[_a-z][a-z0-9_]*$.(úŸ¿ˆ
+ipython:S117U"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Ší™şÿÿÿÿ
+ipython:S117U"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Ší™şÿÿÿÿ
+`python:S1542]"IRename function "RGD" to match the regular expression ^[a-z_][a-z0-9_]*$.(§˜÷P
+ipython:S117s"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô›‰úÿÿÿÿ
+jpython:S117ƒ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(„ç¾úÿÿÿÿ
+jpython:S117ƒ"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(„ç¾úÿÿÿÿ
+jpython:S117"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰­Ç¢üÿÿÿÿ
+jpython:S117"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰­Ç¢üÿÿÿÿ
+bpython:S1542ª"IRename function "RRM" to match the regular expression ^[a-z_][a-z0-9_]*$.(…„¢ª
+Cpython:S1481±"%Remove the unused local variable "t".(£¨˜Õıÿÿÿÿ
+jpython:S117À"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒŒæëıÿÿÿÿ
+jpython:S117À"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒŒæëıÿÿÿÿ
+epython:S117Ë"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(øäŸŞ
+epython:S117Ë"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(øäŸŞ
+npython:S117Ó"VRename this local variable "pos_X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª÷ğ–
+jpython:S117Û"MRename this parameter "H" to match the regular expression ^[_a-z][a-z0-9_]*$.(°Ñòğıÿÿÿÿ
+gpython:S1542Û"IRename function "PGD" to match the regular expression ^[a-z_][a-z0-9_]*$.(°Ñòğıÿÿÿÿ
+Cpython:S1481”"%Remove the unused local variable "t".(Àù©¥ûÿÿÿÿ
+7python:S125¬"Remove this commented out code.(¨Ê¨€
+<python:S125°"Remove this commented out code.(š¾ıùÿÿÿÿ
+7python:S125Ç"Remove this commented out code.(Æ“òÆ
+7python:S125Ì"Remove this commented out code.(·ıÓÕ
+<python:S125ë"Remove this commented out code.(×´µ¹şÿÿÿÿ
+<python:S125î"Remove this commented out code.(óôÂÂıÿÿÿÿ
+<python:S125ñ"Remove this commented out code.(â‘¦íüÿÿÿÿ
